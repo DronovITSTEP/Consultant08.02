@@ -9,17 +9,17 @@
 #define SIZE3_3 3 
 #define SIZE4_4 4
 
-#define ESC 27
+#define ESC 
 #define UP 72
 #define DOWN 80
 #define ENTER 13
 #define RIGHT 77
-#define LEFT 75
+#define LEFT 
 #define BACKSPACE 8
 #define SIZE 4
 #define SIZE1 3
 
-#define SIZE(X) (X)? SIZE3_3 : SIZE4_4
+#define SIZE(X) (X)? SIZE3 : SIZE4
 
 using namespace std;
 int X, Y;
@@ -106,7 +106,7 @@ void Menu(int c = 0) {
 			Menu(choice);
 			//op[choice]();
 		}
-		else choice++;
+		else choice+=6;
 	} while (1);
 
 }
