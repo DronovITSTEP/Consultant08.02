@@ -1,6 +1,4 @@
-﻿// Consultant08.02.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
-
+﻿
 #include <iostream>
 #include <iomanip>
 #include <stdlib.h>
@@ -9,7 +7,7 @@
 #define SIZE3_3 3 
 #define SIZE4_4 4
 
-#define ESC 27
+#define ESC 46
 #define UP 72
 #define DOWN 80
 #define ENTER 13
