@@ -19,6 +19,8 @@
 
 #define SIZE(X) (X)? SIZE3_3 : SIZE4_4
 
+/*cout<<"Hello world";*/
+
 using namespace std;
 int X, Y;
 int arr2[4][4]{
