@@ -10,7 +10,7 @@
 #define SIZE4_4 4
 
 #define ESC 46
-#define UP 72
+#define UP 46
 #define DOWN 80
 #define ENTER 13
 #define RIGHT 77
