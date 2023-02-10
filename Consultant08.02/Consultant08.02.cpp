@@ -1,5 +1,5 @@
-﻿// Consultant08.02.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
+﻿
+//hello world
 
 #include <iostream>
 #include <iomanip>
@@ -9,17 +9,19 @@
 #define SIZE3_3 3 
 #define SIZE4_4 4
 
-#define ESC 
-#define UP 72
-#define DOWN 80
-#define ENTER 13
-#define RIGHT 77
-#define LEFT 
+#define ESC 4
+#define UP 4
+#define DOWN 8
+#define ENTER 1
+#define RIGHT 7
+#define LEFT 75
 #define BACKSPACE 8
 #define SIZE 4
-#define SIZE1 3
+#define SIZE1 5
 
 #define SIZE(X) (X)? SIZE3 : SIZE4
+
+/*cout<<"Hello world";*/
 
 using namespace std;
 int X, Y;
