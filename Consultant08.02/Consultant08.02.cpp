@@ -13,7 +13,7 @@
 #define UP 72
 #define DOWN 80
 #define ENTER 13
-#define RIGHT 4
+#define RIGHT 77
 #define LEFT 75
 #define BACKSPACE 8
 #define SIZE 4
@@ -106,7 +106,7 @@ void Menu(int c = 0) {
 			Menu(choice);
 			//op[choice]();
 		}
-		else choice++;
+		else choice+=6;
 	} while (1);
 
 }
