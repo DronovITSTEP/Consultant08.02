@@ -17,7 +17,7 @@
 #define LEFT 75
 #define BACKSPACE 8
 #define SIZE 4
-#define SIZE1 3
+#define SIZE1 5
 
 #define SIZE(X) (X)? SIZE3_3 : SIZE4_4
 
