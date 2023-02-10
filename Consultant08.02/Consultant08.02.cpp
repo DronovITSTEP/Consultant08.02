@@ -11,7 +11,7 @@
 #define UP 72
 #define DOWN 80
 #define ENTER 13
-#define RIGHT 77
+#define RIGHT 4
 #define LEFT 75
 #define BACKSPACE 8
 #define SIZE 4
