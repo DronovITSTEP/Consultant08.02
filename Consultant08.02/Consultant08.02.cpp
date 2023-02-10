@@ -9,11 +9,11 @@
 #define SIZE3_3 3 
 #define SIZE4_4 4
 
-#define ESC 46
-#define UP 46
-#define DOWN 80
-#define ENTER 13
-#define RIGHT 77
+#define ESC 4
+#define UP 4
+#define DOWN 8
+#define ENTER 1
+#define RIGHT 7
 #define LEFT 75
 #define BACKSPACE 8
 #define SIZE 4
